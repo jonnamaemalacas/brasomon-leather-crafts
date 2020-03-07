@@ -1,0 +1,79 @@
+.br{
+    
+    width: 31rem;
+    height: 44rem;
+  background-image: url(images/FB_IMG_15835006159142544.jpg);
+  background: cover;
+  border-radius: 2rem;
+}
+body{
+    text-align: center;
+   background: linear-gradient( to left, rgb(204, 153, 153),white);
+}
+.rounded-circle{
+    border-radius: 23rem;
+    width: 11rem;
+    height: 11rem;
+    margin-left: -20rem;
+    margin-top: -23rem;
+    position: relative;
+    overflow: hidden;
+    top: -27rem;
+    
+}
+.background{
+    border: brown;
+    border-width: 2rem;
+}
+.form-group{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+    margin-top: -22rem;
+ 
+}
+.form-group1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+    margin-top: 3rem;
+ 
+}
+.form-control{
+    height: 2rem;
+    width: 15rem;
+    overflow: hidden;
+    
+}
+.email{
+    padding-left: 6rem;
+    color: white;
+    
+    padding-top:29rem;
+}
+.pass{
+    padding-top:23rem;
+    padding-left: 9rem;
+    color: white;
+    text-shadow: rgb(204, 153, 153);
+}
+.checkbox{
+   color: white;
+   font-size: 1rem;
+   font-family: sans-serif;
+   padding-top:1rem;
+   padding-left: 9rem;
+
+}
+.btn{
+    background: linear-gradient(rgb(133, 91, 91),brown);
+    box-shadow: rgb(163, 101, 101), beige;
+    color:black;
+    font-family:sans-serif;
+    font-weight:6rem;
+    font-size:18px;
+    height: 50px;
+width: 150px;
+border-radius: 10px;
+margin-top: 1rem;
+text-align: center;
+margin-left: 11rem;
+}
